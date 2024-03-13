@@ -2,7 +2,7 @@
 
 I am **Diky Ahmad Kamaludin**, I am passionate about technologies and love to learn new things.<br>
 
-I'm **College Student** in University Sultan Ageng Tirtayasa.<br>
+I'm **student** in University Sultan Ageng Tirtayasa.<br>
 
 ### 🛠 &nbsp;Tech Stack
 
